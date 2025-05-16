@@ -88,7 +88,7 @@ Here's how this project addresses each of the 12 factors:
 1.  **Clone the repository:**
 
     ```bash
-    git clone <Your GitHub Repo Link Here>
+    git clone https://github.com/Dileepchy/fastapi-url-shortener.git
     cd fastapi-url-shortener
     ```
 
